@@ -1,25 +1,25 @@
-Notas em MD
-Extrair em PDF
-Gerênciador de arquivos a esquerda(bem completo)
-Calendário com agendamento completo
-Suporte a fontes(com ligaduras)
-Poder mudar a cor de certa seção do texto
-Versionamento das notas
-Desing bem bonito, simples e intuitivo
-Escrito em rust
-As notas precisam ser separadas em cofres, assim como é no obsidian para que fique de fácil sincronização
-Pode ser possível criar linkns entre as notas
-Terá suporte também ao mermaid para criar diagramas
-E também terá suporte a criação de notas no estilo do xcalidraw
-As notas também podem ter TODO
-As tabelas das notas podem ter um comportamento parecido com planilhas
-As notas podem suportar tags
-As imagens nas notas ficam diretamente na nota, e não precisa fazer o link para o arquivo
-Temas bonitos e harmônicos
-O app terá a opção de modo leitura e escrita
-Terá contagem de palavras e caracteres
-Terá a opção de colocar senha nas pastas e notas
-Atalhos totalmente configuráveis
+* Notas em MD
+* Extrair em PDF
+* Gerênciador de arquivos a esquerda(bem completo)
+* Calendário com agendamento completo
+* Suporte a fontes(com ligaduras)
+* Poder mudar a cor de certa seção do texto
+* Versionamento das notas
+* Desing bem bonito, simples e intuitivo
+* Escrito em rust
+* As notas precisam ser separadas em cofres, assim como é no obsidian para que fique de fácil sincronização
+* Pode ser possível criar linkns entre as notas
+* Terá suporte também ao mermaid para criar diagramas
+* E também terá suporte a criação de notas no estilo do xcalidraw
+* As notas também podem ter TODO
+* As tabelas das notas podem ter um comportamento parecido com planilhas
+* As notas podem suportar tags
+* As imagens nas notas ficam diretamente na nota, e não precisa fazer o link para o arquivo
+* Temas bonitos e harmônicos
+* O app terá a opção de modo leitura e escrita
+* Terá contagem de palavras e caracteres
+* Terá a opção de colocar senha nas pastas e notas
+* Atalhos totalmente configuráveis
 
 1. Busca extremamente poderosa
 
